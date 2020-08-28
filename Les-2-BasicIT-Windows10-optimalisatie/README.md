@@ -1,10 +1,5 @@
 Les-2-ICT-Basic-Windows10-optimaliseren
 
-Les 2A: optimalisatie / beveiliging / privacy (+ bijlage)  
-Les 2B: tips en trucs (+ bijlage)  
-
-
-Opdrachten (laatste pagina + bijlage)
 
 **Windows 10 optimaliseren**
 
@@ -65,14 +60,4 @@ Windows 10-installatie.
 [Gebruik deze PDF voor de tips en
 trucs.](../%20Basic-IT/Les-2B-BasicIT-Windows10-optimalisatie/Les-2B-BasicIT-W10optimalisatie2.pdf)
 
-OPDRACHTEN
-
-Gebruik [deze PDF](Opdrachten-BasicIT-Les2.pdf) voor het uitvoeren van alle
-opdrachten ter optimalisatie van jouw PC en Windows 10-installatie.
-
-Tijdens het uitvoeren maak je notities van je activiteiten. Beschrijf hier bij
-elk onderwerp / onderdeel in het kort welke dingen je zijn opgevallen of welke
-problemen je hebt moeten oplossen.
-
-Gebruik hiervoor een door jou aangemaakte Excel-sheet. Lever deze als
-PDF-bestand in.
+Aan de slag: zie taak
