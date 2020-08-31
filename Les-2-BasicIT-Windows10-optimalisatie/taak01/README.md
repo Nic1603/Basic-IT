@@ -5,3 +5,10 @@ windows-onderhoud-instellingen-2
 # Opdracht 2:<br><br>[Voer de opdrachten uit zoals beschreven in deze PDF](https://github.com/Amstelland-Software-Development/Basic-IT/blob/master/Les-2-BasicIT-Windows10-optimalisatie/taak01/Opdrachten-BasicIT-Les2.pdf)
 
 # Opdracht 3:<br><br>Schrijf een verslag van je activiteiten. Totaal maximaal 1 dubbelzijdig A4-tje - schrijf per onderwerp in ieder geval twee alinea’s (1 alinea = ongeveer 40 woorden).<br><br>*Kopieer geen teksten van internet.*<br><br>**Lever je verslag in als PDF.**
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:72649698
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
