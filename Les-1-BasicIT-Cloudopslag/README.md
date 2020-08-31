@@ -27,4 +27,4 @@ Uitleg
 >   
 
 [Gebruik deze instructie om OneDrive te koppelen aan jouw PC en/of OneDrive te
-gebruiken in SharePoint.](Les-1-BasicIT-Cloudopslag-instructie.pdf)
+gebruiken in SharePoint.](https://github.com/Amstelland-Software-Development/Basic-IT/blob/master/Les-1-BasicIT-Cloudopslag/Les-1-BasicIT-Cloudopslag-instructie.pdf)
