@@ -58,6 +58,6 @@ Windows 10-installatie.
 [Gebruik deze PDF.](https://github.com/Amstelland-Software-Development/Basic-IT/blob/master/Les-2-BasicIT-Windows10-optimalisatie/LES-2A-BasicIT-Windows10-optimalisatie.pdf)  
   
 [Gebruik deze PDF voor de tips en
-trucs.](../%20Basic-IT/Les-2B-BasicIT-Windows10-optimalisatie/Les-2B-BasicIT-W10optimalisatie2.pdf)
+trucs.](https://github.com/Amstelland-Software-Development/Basic-IT/blob/master/%20Basic-IT/Les-2B-BasicIT-Windows10-optimalisatie/Les-2B-BasicIT-W10optimalisatie2.pdf)
 
 Aan de slag: zie taak
