@@ -30,7 +30,7 @@ Aan de slag
   
 Hieronder wordt beschreven wat er bij komt kijken om een VM te installeren.
 
-[Gebruik deze PDF voor de stap-voor-stap uitleg.](Basic-IT-VM-installeren.pdf)  
+[Gebruik deze PDF voor de stap-voor-stap uitleg.](https://github.com/Amstelland-Software-Development/Basic-IT/blob/master/Les-4-BasicIT-VirtualMachines/Basic-IT-VM-installeren.pdf)  
   
 
 
